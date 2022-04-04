@@ -4,9 +4,9 @@ author: "s.eidukas@outlook.com"
 
 inputs:
   MY_NAME:
-  description: "Who to greet"
-  required: true
-  default: "Timmy"
+    description: "Who to greet"
+    required: true
+    default: "Timmy"
 
 runs:
   using: Docker
